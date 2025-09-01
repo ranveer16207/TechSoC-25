@@ -5,25 +5,25 @@
 ---
 
 ## Problem Understanding
-**What the problem is asking:** [Explain in your own words]
+**What the problem is asking:** [to turn our message into a codeword which is just our message shifted into other letter]
 
-**Key concepts involved:** [List the main ideas/algorithms needed]
+**Key concepts involved:** [encryption of text by brute force.]
 
-**My approach:** [High-level strategy you chose]
+**My approach:** [i used if statement to let the system lnow from where the inputs like 'a' should range to change the text, i used for loop to change a letter and come back and re do the same thing with upcoming letter, and after each operation return 0 to re do the thing over.]
 
 ---
 
 ##  Conceptual Learning
 
 ### **New Concepts I Discovered**
-- **[Concept Name]:** [What it is and why it's useful]
-- **[Another Concept]:** [Brief explanation and application]
+- **[Concept Name]:** [ascii table]
+- **[Another Concept]:** [getline.]
 
 ### **How I Applied These Concepts**
-[Explain how you used the concepts to solve the problem]
+[if statement to let computer know the range it should be working on, for loop to change the letter and then come back to do it again, used math to get a formula in which you can put any shift from integer]
 
 ### **Real-World Connections**
-[Where might you see this problem or similar concepts in real applications?]
+[it can be used by IT companies to encrypt the message sent by one user to another without being seen and understood by stranger, unwanted person. ;) ]
 
 
 
